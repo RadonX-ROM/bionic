@@ -290,7 +290,6 @@ LOCAL_SRC_FILES_arm += \
     arm/floor.S \
     arm/fma.S \
     arm/log.S \
-    arm/lrint.S \
     arm/rem_pio2.S \
     arm/rem_pio2_kernel.S \
     arm/sin.S \
